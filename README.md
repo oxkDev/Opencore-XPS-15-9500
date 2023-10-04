@@ -22,7 +22,13 @@ This is an opencore project for xps 15 9500 with 10750H CPU
 - Thermal velocity Boost Frequency: **5.0 GHz**
 - Max Turbo Frequency: **5.0 GHz**
 - TDP: **45W**
-- TDP-down: **35W**
+- TDP-down: **35W**- 
+
+### Thunderbolt
+
+- **JHL7540 Thunderbolt 3**
+    - Titan Ridge DD 2018
+    - Titan Ridge 4C 2018
 
 ### Expansion Options
 
@@ -34,6 +40,7 @@ This is an opencore project for xps 15 9500 with 10750H CPU
 ## GPU
 
 - Intel **UHD 630**
+- NVIDIA **GTX 1650 Ti**
 
 ## Wireless Module
 
